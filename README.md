@@ -4,7 +4,7 @@ Requirements for this application:
 ==================================
 1. Webcam(embedded/external) on your machine.
 2. OpenCV(cv2) module installed on your Python Idle.
-i
+
 Steps for executing this application:
 =====================================
 1. Create two folders with names 'dataset' and 'trainner'
